@@ -1,0 +1,25 @@
+# Build outputs
+Debug/
+Release/
+External GCC - Debug/
+
+# IDE and metadata
+.vscode/
+.settings/
+.cproject
+.project
+
+# Binaries
+*.elf
+*.hex
+*.map
+*.mdf
+*.o
+*.d
+*.src
+
+# Misc
+*.opt
+*.mk
+*.a
+
